@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main function and return int 1
+ * main - Entry point
+ * Return:1
  */
 int main(void)
 {
